@@ -5,10 +5,7 @@
 
 package beans;
 
-/**
- *
- * @author Ubaldo
- */
+
 public class Rectangulo {
 
   private int base;
